@@ -499,7 +499,7 @@
 
 <distributionManagement>
   <repository>
-  <id>central</id>
-  <name>Central</name>
-  <url>http://172.18.218.242:8081/nexus/content/repositories/central/</url>
+  <id>releases</id>
+  <name>Releases</name>
+  <url>http://172.18.218.242:8081/nexus/content/repositories/releases/</url>
   </repository>
