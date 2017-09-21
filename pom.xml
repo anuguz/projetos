@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-</project>
+
 
 <distributionManagement>
   <repository>
@@ -504,3 +504,4 @@
   <url>http://172.18.219.242:8081/nexus/content/repositories/thirdparty/</url>
   </repository>
 </distributionManagement>
+</project>
