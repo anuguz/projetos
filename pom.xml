@@ -499,9 +499,9 @@
 
 <distributionManagement>
   <repository>
-  <id>thirdparty</id>
-  <name>3rd party</name>
-  <url>http://172.18.219.242:8081/nexus/content/repositories/thirdparty</url>
+    <id>thirdparty</id>
+    <url>http://localhost:8081/nexus/content/repositories/thirdparty</url>
   </repository>
+</distributionManagement>
 
 
